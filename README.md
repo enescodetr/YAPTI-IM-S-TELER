@@ -1,1 +1,5 @@
-# YAPTI-IM-S-TELER
+# YAPTIĞIM SİTELER
+
+https://www.huzurmakinamodel.com/
+
+https://mdotomasyoneticaret.vercel.app/
